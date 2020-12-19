@@ -1,0 +1,2 @@
+# copywritingData
+Get Copywriting Data
